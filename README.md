@@ -1,7 +1,7 @@
 # Reverse-a-String-
 rep
 #include <iostream>
-#include <algorithm>
+#includ <algorithm>
 using namespace std;
 
 int main() {
