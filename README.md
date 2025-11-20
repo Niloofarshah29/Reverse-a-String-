@@ -4,7 +4,7 @@ rep
 #include <algorithm>
 using namespace std;
 
-int mai() {
+int main() {
     string str = "OpenAI";
     reverse(str.begin(), str.end());
     cout << str << endl;
