@@ -2,7 +2,7 @@
 rep
 #include <iostream>
 #include <algorithm>
-using namespace std;
+usin namespace std;
 
 int main() {
     string str = "OpenAI";
